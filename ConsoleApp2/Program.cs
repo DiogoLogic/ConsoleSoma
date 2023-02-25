@@ -17,7 +17,7 @@ namespace ConsoleApp2
             Console.WriteLine($"O resutado da somá é {Soma(numero1, numero2)}");
 
 
-            Console.WriteLine("Aperte Enter para Finaizar");
+            Console.WriteLine("Aperte Enter para finalizar o programa");
             Console.ReadLine();
         }
 
